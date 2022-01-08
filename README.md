@@ -1,17 +1,25 @@
-<div align="center">
-  
-<img src="screenshots\Screenshot (1980).png" alt="Website image">
 
-</div>
 
 <div align="center">
   
-# 🏆 Solvee
+  # <img src="GG.png" alt=""  height="100">
+
 **Solvee** is a competition and examination website which lets users either host or participate in custom competitions and exams.
 
 </div>
 
 ---
+### 😉 To Run:
+<p>
+  ✔️ Clone the repository by pressing the <b>green button.</b> <br>
+  ✔️ Once in the folder, type <b>CMD</b> in the address bar. <br>
+  ✔️ Now type <b>node app.js</b> and enter. <br>
+  ✔️ Open the browser, and navigate to <b>http://localhost:3000</b> <br>
+  </p>
+
+
+
+
 ### 🧐 About:
 #
 **Solvee** is a web-hosted examination and
@@ -30,14 +38,38 @@ check for their mistakes.
 ---
 ### ⛏️ Built Using:
 #
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Node.js
+ <div align='center'>   <img src="screenshots/GIFs/Web.png"  alt="HTML, CSS & JS"  width= "200" ></div>
+ <div align='center'>   <img src="screenshots/GIFs/Node.png"  alt="Node.js"  width= "200" ></div>
+ <div align='center'>   <img src="screenshots/GIFs/MySQL.png"  alt="MySQL"  width= "200" ></div>
+
+
 
 ---
 
-### 📷 Screenshots:
+### 📷 Snippets:
+<div align='center'>  <h2> Homepage </h2> <img src="screenshots/GIFs/Homepage.gif" alt="Homepage" >
+ </div>
+ 
+ <div align='center'>  <h2> Exams </h2> <img src="screenshots/GIFs/Exam.gif" alt="Exams" >
+ </div>
+ 
+  <div align='center'>  <h2> Competitions </h2> <img src="screenshots/GIFs/Competitions.gif" alt="Competitions" >
+ </div>
+ 
+  <div align='center'>  <h2> Tournaments </h2> <img src="screenshots/GIFs/Tournaments.gif" alt="Tournaments" >
+ </div>
+ 
+   <div align='center'>  <h2> Support </h2> <img src="screenshots/GIFs/Donate.gif" alt="Donations" >
+ </div>
+ 
+ <div align='center'>  <h2> Profile </h2> <img src="screenshots/Image23.png" alt="Profile" > </div>
+ 
+ <div align='center'>  <h2> To-do-list </h2> <img src="screenshots/Image24.png" alt="To-Do List" ></div>
+
+ <div align='center'>  <h2> And finally, Responsiveness </h2> <img src="screenshots/GIFs/Responsiveness.gif" alt="Desktop & Mobile" ></div>
+
+<h1 align='center'> Thank You. </h1>
+
+
 #
 
